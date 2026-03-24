@@ -1,0 +1,2 @@
+python -u eval_CMMLU.py --model_name_or_path /xxx/dpo_ultrafeedback_chinese_and_20%english/checkpoint-1000 --save_dir ./CMMLU_results/dpo-1000
+python -u eval_CMMLU.py --model_name_or_path /xxx/dpo_ultrafeedback_chinese_and_20%english/checkpoint-500 --save_dir ./CMMLU_results/dpo-500
